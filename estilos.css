@@ -80,3 +80,7 @@ a:hover {
     text-decoration: underline;
     background-color: rgb(226, 9, 9);
 }
+
+#InstanceNumberText {
+    text-align: end;
+}
