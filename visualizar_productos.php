@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Visualizar Productos</title>
+    <p id="InstanceNumberText">Instancia No. #1</p>
     <link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body>

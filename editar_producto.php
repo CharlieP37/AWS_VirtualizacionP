@@ -36,6 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <title>Editar Producto</title>
+    <p id="InstanceNumberText">Instancia No. #1</p>
     <link rel="stylesheet" type="text/css" href="estilos.css">
     <script>
         function calcularTotal() {
